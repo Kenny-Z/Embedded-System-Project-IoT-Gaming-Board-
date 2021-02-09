@@ -1,12 +1,10 @@
 Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=5V5_BOOST|SchDesignator=5V5_BOOST|FileName=5V5_BOOST.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=5V5_BOOST.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=5V5to5V_BUCK|SchDesignator=5V5to5V_BUCK|FileName=5.5Vto5VBuck.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=5.5Vto5VBuck.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=5Vto3V3_BUCK|SchDesignator=5Vto3V3_BUCK|FileName=3V3_BUCK.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=3V3_BUCK.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=5Vto3V3_BUCK|SchDesignator=5Vto3V3_BUCK|FileName=5Vto3V3Buck.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=5Vto3V3Buck.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_FTDI|SchDesignator=U_FTDI|FileName=FTDI.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=FTDI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_LiPo_Charger|SchDesignator=U_LiPo_Charger|FileName=LiPo_Charger.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LiPo_Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=5Vto3V3Buck.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6V Boost - High Current.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=CommonComponents.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=Sensors.SchDoc|SheetNumber= 
