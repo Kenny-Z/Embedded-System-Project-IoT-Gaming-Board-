@@ -9,3 +9,4 @@ Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Memory|SchDesignator=
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=5Vto3V3Buck.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6V Boost - High Current.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=CommonComponents.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=Sensors.SchDoc|SheetNumber= 
