@@ -571,21 +571,15 @@ UniqueID=BC0CE679-049C-4B69-94F9-44606582BF8E
 Description=Build_Alt
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=8
 Variation1=Designator=TP1|UniqueId=\NJVBXXVZ|Kind=1|AlternatePart= 
-Variation2=Designator=TP3|UniqueId=\MFGVQVPB|Kind=1|AlternatePart= 
+Variation2=Designator=TP5|UniqueId=\MFGVQVPB|Kind=1|AlternatePart= 
 Variation3=Designator=TP2|UniqueId=\CTJKUFZO|Kind=1|AlternatePart= 
-Variation4=Designator=TP4|UniqueId=\FZLPNHUH|Kind=1|AlternatePart= 
-Variation5=Designator=TP5|UniqueId=\WAYKQBKK|Kind=1|AlternatePart= 
+Variation4=Designator=TP6|UniqueId=\FZLPNHUH|Kind=1|AlternatePart= 
+Variation5=Designator=TP9|UniqueId=\WAYKQBKK|Kind=1|AlternatePart= 
 Variation6=Designator=FD2|UniqueId=\UFFYDEFG|Kind=1|AlternatePart= 
 Variation7=Designator=FD1|UniqueId=\DLXMMHAS|Kind=1|AlternatePart= 
 Variation8=Designator=FD3|UniqueId=\YHOXKFEF|Kind=1|AlternatePart= 
-Variation9=Designator=TP6|UniqueId=\OSLTIIAV\DXBQGUUP|Kind=1|AlternatePart= 
-Variation10=Designator=TP7|UniqueId=\OSLTIIAV\FSITPHYW|Kind=1|AlternatePart= 
-Variation11=Designator=TP8|UniqueId=\OSLTIIAV\CMNWXLMF|Kind=1|AlternatePart= 
-Variation12=Designator=TP9|UniqueId=\OSLTIIAV\FGHRZLWI|Kind=1|AlternatePart= 
-Variation13=Designator=TP10|UniqueId=\OSLTIIAV\KPEGWKOG|Kind=1|AlternatePart= 
-Variation14=Designator=TP11|UniqueId=\OSLTIIAV\MOEIAXXC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
