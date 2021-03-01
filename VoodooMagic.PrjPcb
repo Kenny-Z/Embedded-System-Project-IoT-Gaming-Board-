@@ -244,23 +244,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VXRXSFCV
 
 [Document13]
-DocumentPath=StarterBoardJob.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
 DocumentPath=StarterBoardFabrication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=StarterBoardAssembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=Library\Components - 12.02.20 - 18.05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTQXCVAW
 
-[Document17]
+[Document16]
 DocumentPath=Library\Components - 12.02.20 - 18.05.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUNFSHZH
 
-[Document18]
+[Document17]
 DocumentPath=Library\2020-02-13_00-03-41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJIVECKF
 
-[Document19]
+[Document18]
 DocumentPath=Library\2020-02-13_00-03-41.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZOJPGKL
 
-[Document20]
+[Document19]
 DocumentPath=Library\Components - 12.02.20 - 19.48.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,7 +362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVONVUET
 
-[Document21]
+[Document20]
 DocumentPath=Library\Components - 12.02.20 - 19.48.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -396,7 +379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJKPEEGE
 
-[Document22]
+[Document21]
 DocumentPath=Library\Components - 12.02.20 - 19.52.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCMHHAMB
 
-[Document23]
+[Document22]
 DocumentPath=Library\Components - 12.02.20 - 19.52.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUHHOMFR
 
-[Document24]
+[Document23]
 DocumentPath=Library\Components - 01.02.21 - 21.11.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKIGBAYA
 
-[Document25]
+[Document24]
 DocumentPath=Library\Components - 01.02.21 - 21.11.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOSDNEIM
 
-[Document26]
+[Document25]
 DocumentPath=Library\S4B-PH-SM4-TB_LF_SN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIRAXPIQ
 
-[Document27]
+[Document26]
 DocumentPath=Library\S4B-PH-SM4-TB(LF)(SN).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCRMYUWA
 
-[Document28]
+[Document27]
 DocumentPath=Library\ESE516A2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYXTEBMM
 
-[Document29]
+[Document28]
 DocumentPath=Library\ESE516A2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIXSYSDG
 
-[Document30]
+[Document29]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,8 +532,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMYQQGVC
 
-[Document31]
+[Document30]
 DocumentPath=VoodooMagic.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=VoodooMagic.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
