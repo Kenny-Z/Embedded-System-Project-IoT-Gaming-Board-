@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\cchen82\Documents\GitHub\Voodoo_Magic\ESE516_PCB.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=4.00
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
